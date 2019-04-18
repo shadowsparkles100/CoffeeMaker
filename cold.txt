@@ -1,1 +1,3 @@
-This is Cold kablu branch
+This is Cold kablu branch.
+Now i am changing in Github and want the resulted update in local git repository.
+And that's why i will first fetch and then pull.
