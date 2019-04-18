@@ -1,1 +1,1 @@
-This text file is inside a folder in kablu branch.
+This text file is inside a folder in master branch updated 2nd time.
